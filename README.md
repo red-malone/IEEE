@@ -2,7 +2,7 @@
 
 ## IEEE Website
 
-[![Website status](https://img.shields.io/website-up-down-green-red/https/https://ieeerobocon.000webhostapp.com/)](https://tedxjmi.netlify.com)
+[![Website status](https://img.shields.io/website-up-down-green-red/https/https://ieeerobocon.000webhostapp.com/)](https://ieeerobocon.000webhostapp.com/)
 
 ## Built Using
 - Html
