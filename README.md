@@ -22,4 +22,4 @@
 - Javascript
 - Bootstrap(Old version)
 ## License
-Distributed under MIT License
+This project is licensed under the terms of the [MIT license](LICENSE)
